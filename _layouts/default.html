@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-    <title>{{ page.title }} - The Yasm Modular Assembler Project</title>
+    <title>{% if page.title != 'Home' %}{{ page.title }} - {% endif %}The Yasm Modular Assembler Project</title>
     <link href="/stylesheets/main.css" media="screen" rel="stylesheet" type="text/css" />
     <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon" />
     <link href="/favicon.ico" rel="icon" type="image/x-icon" />
