@@ -1,0 +1,153 @@
+body { background: #fff; color: #000; margin: 10px; padding: 0; }
+body, th, tr {
+ font: normal 13px Verdana,Arial,'Bitstream Vera Sans',Helvetica,sans-serif;
+}
+h1, h2, h3, h4 {
+ font-family: Arial,Verdana,'Bitstream Vera Sans',Helvetica,sans-serif;
+ font-weight: bold;
+ letter-spacing: -0.018em;
+ page-break-after: avoid;
+}
+h1 { font-size: 19px; margin: .15em 1em 0.5em 0 }
+h2 { font-size: 16px }
+h3 { font-size: 14px }
+hr { border: none;  border-top: 1px solid #ccb; margin: 2em 0 }
+address { font-style: normal }
+img { border: none }
+
+.underline { text-decoration: underline }
+ol.loweralpha { list-style-type: lower-alpha }
+ol.upperalpha { list-style-type: upper-alpha }
+ol.lowerroman { list-style-type: lower-roman }
+ol.upperroman { list-style-type: upper-roman }
+ol.arabic     { list-style-type: decimal }
+
+/* Link styles */
+:link, :visited {
+ text-decoration: none;
+ color: #b00;
+ border-bottom: 1px dotted #bbb;
+}
+:link:hover, :visited:hover { background-color: #eee; color: #555 }
+h1 :link, h1 :visited ,h2 :link, h2 :visited, h3 :link, h3 :visited,
+h4 :link, h4 :visited, h5 :link, h5 :visited, h6 :link, h6 :visited {
+ color: inherit;
+}
+
+/* Heading anchors */
+.anchor:link, .anchor:visited {
+ border: none;
+ color: #d7d7d7;
+ font-size: .8em;
+ vertical-align: text-top;
+}
+* > .anchor:link, * > .anchor:visited {
+ visibility: hidden;
+}
+h1:hover .anchor, h2:hover .anchor, h3:hover .anchor,
+h4:hover .anchor, h5:hover .anchor, h6:hover .anchor,
+span:hover .anchor {
+ visibility: visible;
+}
+
+/* Header */
+#header hr { display: none }
+#header h1 { margin: 1.5em 0 -1.5em; padding: 0 }
+#header img { border: none; margin: 0 0 0 }
+#header :link, #header :visited, #header :link:hover, #header :visited:hover {
+ background: transparent;
+ color: #555;
+ margin-bottom: 2px;
+ border: none;
+ padding: 0;
+}
+#header h1 :link:hover, #header h1 :visited:hover { color: #000 }
+
+#content {
+ padding-left: 18px;
+ padding-bottom: 2em;
+ position: relative
+}
+
+#content h1, #content h2, #content h3 { margin-left: -18px }
+#content table h1, #content table h2, #content table h3 { margin-left: 0px }
+div.compact > p:first-child { margin-top: 0 }
+div.compact > p:last-child { margin-bottom: 0 }
+
+a.missing:link, a.missing:visited, a.missing, span.missing,
+a.forbidden, span.forbidden { color: #998 }
+a.missing:hover { color: #000 }
+a.closed:link, a.closed:visited, span.closed { text-decoration: line-through }
+
+#content ul li p { margin-top: 0px; margin-bottom: 0px }
+
+#left { 
+/*  float: left; */
+ z-index: 2;
+ margin: 0;
+ margin-top: 20px;
+ margin-bottom: 20px;
+ max-width: 175px;
+ position: absolute;
+ top: 120px;
+ left: 0px;
+ width: 140px;
+}
+
+#menu { 
+ font-size: 12px; 
+}
+#menu ul li a {
+ color: #999;
+ display: block;
+ text-decoration: none;
+ padding: 3px;
+ padding-left: 10px;
+ background: #fff;
+ border: none;
+ border-left: 9px solid #e5e5e5;
+}
+#menu ul li a:hover { 
+ padding-left: 10px;
+ color: #000; 
+ background: #f7f7f7;
+ border-left: 9px solid #ccc;
+}
+#menu ul li:hover { border: 1px solid #066; }
+#menu ul { list-style: none; margin: 0; margin-bottom: 2em; padding: 0;
+  border-top: 1px dotted #d7d7d7;  
+ }
+#menu ul li {
+ margin: 0;
+ padding: 0;
+ background-color: #f0f7f7;
+ border: 1px solid #fff;
+ border-left-color: #e5e5e5;
+ border-bottom: 1px dotted #d7d7d7;
+}
+
+#left h2 { 
+ margin: .5em 0;
+ margin-bottom: 0;
+ margin-left: 0px;
+ padding: .01em .5em;
+ font-size: 12px;
+ font-weight: bold;
+ background: #fbb200;
+ color: #000;
+}
+
+#left .section { 
+ padding-left: 12px;
+}
+
+#left .section { 
+ padding-left: 12px;
+}
+
+#left .section a { 
+ border-left: none !important;
+}
+
+#main { margin: 0; margin-left: 145px; padding: 0em; }
+
