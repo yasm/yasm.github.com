@@ -28,7 +28,7 @@ Key Current User-Visible Features
 * Nearly feature-complete lexing and parsing of [GAS (GNU assembler) syntax]({{site.wiki}}/GasSyntax).
 * [AMD64]({{site.wiki}}/AMD64) support (enabled using "BITS 64", "-m amd64", or selecting an explicitly 64-bit object format output such as "-f win64" or "-f elf64")
 * 64-bit (and larger) integer constants allowed (including math operations).
-* A fast jump size optimizer equivalent to or better than other assemblers'' multi-pass optimizers.
+* A fast jump size optimizer equivalent to or better than other assemblers' multi-pass optimizers.
 * Support for multiple object formats:
    * [Binary object file]({{site.wiki}}/BinaryObject) output (NASM style).
    * [COFF object file]({{site.wiki}}/CoffObject) output, for use with DJGPP.
@@ -64,13 +64,13 @@ retaining the same front-end syntax. The blend of recursive descent for syntax
 and a hand-written parser for instructions strikes a great balance between the
 strengths and weaknesses of each approach.
 
-* A [[NASM syntax|NasmSyntax]] lexer written in re2c. A highly efficient
-scanner generator (almost always faster than lex/flex), it's also very
-embeddable due to its code generation methodology, allowing a number of re2c
-scanners to be used in various places in yasm without any worries about naming
-conflicts.
+* A [NASM syntax]({{site.wiki}}/NasmSyntax) lexer written in re2c. A highly
+efficient scanner generator (almost always faster than lex/flex), it's also
+very embeddable due to its code generation methodology, allowing a number of
+re2c scanners to be used in various places in yasm without any worries about
+naming conflicts.
 
-* A [[GAS syntax|GasSyntax]] lexer written in re2c.
+* A [GAS syntax]({{site.wiki}}/GasSyntax) lexer written in re2c.
 
 * Many of the modular interfaces at least superficially finished. This is still
 an area that needs a lot of work.
