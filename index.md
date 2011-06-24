@@ -30,7 +30,7 @@ Key Current User-Visible Features
    * [RDOFF2 object file]({{site.wiki}}/RdfObject) output.
    * [ELF32 and ELF64 object file]({{site.wiki}}/ElfObject) output.
    * [32 and 64-bit Mach-O object file]({{site.wiki}}/MachObject) output.
-* [STABS]({{site.wiki}}/StabsDebug), [DWARF2]({{site.wiki}}/Dwarf2Debug), and [CodeView]({{site.wiki}}/CodeViewDebug) debug formats.
+* [STABS]({{site.wiki}}/StabsDebug), [DWARF2]({{site.wiki}}/DwarfDebug), and [CodeView]({{site.wiki}}/CodeViewDebug) debug formats.
 * Portability; currently compilable on:
    * UNIX and compatibles (32-bit and 64-bit FreeBSD and Linux tested, GNU configure based autoconfiguration)
    * DOS (using [DJGPP](http://www.delorie.com/djgpp/))
