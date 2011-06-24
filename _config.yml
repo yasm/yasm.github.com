@@ -4,4 +4,4 @@ pygments: true
 wiki: http://github.com/yasm/yasm/wiki
 manual: http://www.tortall.net/projects/yasm/manual/html
 git: http://github.com/yasm/yasm/blob/master
-
+releases: http://www.tortall.net/projects/yasm/releases
