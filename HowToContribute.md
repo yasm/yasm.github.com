@@ -13,7 +13,7 @@ You can also work independently.  Just [download](/Download.html) a nightly snap
 Feedback / Bugs
 ---------------
 
-Feel free to report bugs either on our [mailing lists](/MailingList.html) or (preferably) by using the [Issues tracker](http://github.com/yasm/yasm/issues).  Other feedback and general discussion can be made to the yasm-devel mailing list.
+Feel free to report bugs either on our [mailing lists](/MailingList.html) or (preferably) by using the [bug tracker](http://tortall.lighthouseapp.com/projects/78676-yasm).  Other feedback and general discussion can be made to the yasm-devel mailing list.
 
 Code Contributions
 ------------------
