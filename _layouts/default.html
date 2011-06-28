@@ -11,6 +11,11 @@
   <body>
     <div id="header">
       <a id="logo" href="/"><img src="/banner.png" alt="Yasm" height="93" width="244" /></a>
+{% if page.longtitle %}
+      <div id="title">
+        <h1>{{page.longtitle}}</h1>
+      </div>
+{% endif %}
     </div>
 
     <div id="left">

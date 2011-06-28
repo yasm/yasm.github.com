@@ -13,7 +13,7 @@ Yasm currently supports the x86 and AMD64 instruction sets, accepts NASM and GAS
 Yasm can be easily integrated into Visual Studio [2005/2008]({{site.wiki}}/VisualStudio2005) and [2010]({{site.manual}}/vsyasm.html) for assembly of NASM or GAS syntax code into Win32 or Win64 object files.
 
 Key Current User-Visible Features
----------------------------------
+=================================
 
 * Nearly feature-complete lexing and parsing of [NASM syntax]({{site.wiki}}/NasmSyntax).
 * Basic support for [TASM syntax]({{site.wiki}}/TasmSyntax).
@@ -38,7 +38,7 @@ Key Current User-Visible Features
 * Internationalization support via [GNU gettext](http://www.gnu.org/software/gettext/gettext.html).
 
 Key Internal Features
----------------------
+=====================
 
 The core focus of **Yasm** is not the *yasm* commandline frontend; rather, it is the [Libyasm]({{site.wiki}}/Libyasm) library and associated [loadable modules]({{site.wiki}}/LoadableModules) (see the [programmer references]({{site.wiki}}/ProgrammerReferences) for documentation).  Libyasm and the modules are intended for reuse in other sorts of programs dealing with code at the assembly level (compilers, debuggers, etc). Someday, libyasm may be packaged separately from the rest of **Yasm**.
 

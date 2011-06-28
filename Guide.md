@@ -1,5 +1,6 @@
 ---
-title: Guide
+title: Documentation
+longtitle: Yasm Documentation
 layout: default
 ---
 

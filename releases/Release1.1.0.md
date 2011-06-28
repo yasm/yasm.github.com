@@ -1,13 +1,11 @@
 ---
 title: Yasm 1.1.0
+longtitle: Yasm 1.1.0 Release Notes
 layout: default
 ---
 
-Yasm 1.1.0 Release Notes
-========================
-
 Target Audience
----------------
+===============
 
 Welcome to the 1.1.0 release of the Yasm Modular Assembler.  Its target audience includes people who want to:
 
@@ -21,7 +19,7 @@ Welcome to the 1.1.0 release of the Yasm Modular Assembler.  Its target audience
  * contribute to Yasm development from a new release.
 
 Download Yasm 1.1.0
--------------------
+===================
 
 A number of download formats are available. For Windows and DOS users, we recommend downloading the prebuilt binaries. The source tarball contains all sources needed to build Yasm on UNIX-compatible systems, Windows, and DOS.  If you use Visual Studio 2010, we highly recommend downloading the appropriate vsyasm zip file and following its readme.txt directions for integration of yasm into the Visual Studio IDE.
 
@@ -37,9 +35,10 @@ A TASM-like frontend is also available.  It defaults to the "tasm" parser and pr
  * [Win32]({{site.releases}}/ytasm-1.1.0-win32.exe) | [Win64]({{site.releases}}/ytasm-1.1.0-win64.exe) | [DOS]({{site.releases}}/ytasm-1.1.0-dos.exe)
 
 Features
---------
+========
 
-### Changes from 1.0.1 to 1.1.0:
+Changes from 1.0.1 to 1.1.0:
+----------------------------
 
  * Fix a number of issues with Win32 SAFESEH support (#139).
  * Fix several 32-bit Mach-O (macho32) bugs (#212 and others).
@@ -49,9 +48,10 @@ Features
  * Don't emit unnecessary REX.W for pinsrw instruction (#207).
  * Update gettext to 0.17 (#206).
 
-### Features also include:
+Features also include:
+----------------------
 
-#### Object and debugging format support:
+### Object and debugging format support:
 
  * Full support for ELF, including support for both AMD64 and 32-bit x86 static and shared objects and thread local storage.
  * Support for Mach-O object format used in MacOS X, including both the 32-bit (x86) and 64-bit (AMD64) versions.
@@ -63,18 +63,18 @@ Features
 
  * STABS, DWARF2, and CodeView 8 debugging formats (enable with "-g ...").
 
-#### Assembler syntax support:
+### Assembler syntax support:
 
  * Full NASM-compatible parser, including the "real" NASM preprocessor (imported from NASM tree).
  * GAS parser and preprocessor.
  * Basic support for TASM syntax, based on the NASM parser and preprocessor.
 
-#### Architecture support:
+### Architecture support:
 
  * Support for AMD64 instruction set, registers, and addressing modes. This is enabled in one of three ways: using the `[BITS 64]` directive, using a 64-bit object format such as win64 or elf64, or setting the machine to "amd64".  Only the last two will actually generate a 64-bit object file.
  * Full support for AMD64 RIP-relative addressing; the forms supported in NASM syntax are `[rip+val]` (direct index) and `[sym wrt rip]` or `[rel sym]` (relocated relative).
 
-#### Other features:
+### Other features:
 
  * Fast and efficient "virtual multi-pass" optimizer that automatically generates much smaller code for jumps and immediates.
  * Full warnings for integer overflow.
@@ -85,25 +85,25 @@ Features
  * Man pages: yasm(1), yasm_objfmts(7), yasm_dbgfmts(7), and yasm_arch(7).
 
 Important Differences from NASM
--------------------------------
+===============================
 
  * A number of command line options are different. Run "yasm --help" for a quick command line option summary, or read the full yasm(1) manpage for detailed descriptions of all command line options.
  * Include files with relative paths are not searched in the same way.  Yasm's search behavior is essentially that of most C compilers.
 
 Known Issues
-------------
+============
 
 As Yasm is still under development, there are some caveats and features that do not yet work or are not yet fully functional.  See the Tickets area of Yasm's website for a list of active issues.
 
 Compiling Yasm from source
---------------------------
+==========================
 
 On UNIX-compatible operating systems, Yasm builds using the standard "./configure; make; make install" commands. GNU make is not required. While Yasm development requires a larger toolchain (see the HACKING file), building Yasm should not require more than just a C compiler.
 
 For Windows and DOS systems, we recommend simply downloading the prebuilt executables. However, for those that want to build YASM directly using [DJGPP](http://www.delorie.com/djgpp/), [CygWin](http://www.cygwin.com/), or Visual Studio, Makefiles and all required specialized files are provided in the Mkfiles/ directory of the distribution tarball.
 
 Running Yasm
-------------
+============
 
 Version Information:
 

@@ -1,27 +1,28 @@
 ---
 title: Participate
+longtitle: Participating in Yasm Development
 layout: default
 ---
 
-Participating in Yasm Development
-=================================
+Joining the Team
+================
 
 The [Yasm development team]({{site.wiki}}/YasmTeam) is currently very small, but we're open to more developers joining us!  Now that the object format interface is reaching stability (except for debug format support), we're looking for developers interested in working on additional object format support as well as other portions of Yasm.  [Peter Johnson]({{site.wiki}}/PeterJohnson) is the contact person for object formats and for development in general.  Drop him a note if you're interested!
 
 You can also work independently.  Just [download](/Download.html) a nightly snapshot or get [Git](http://git-scm.com) and use it to download (recommended), and start hacking!
 
 Feedback / Bugs
----------------
+===============
 
 Feel free to report bugs either on our [mailing lists](/MailingList.html) or (preferably) by using the [bug tracker](http://tortall.lighthouseapp.com/projects/78676-yasm).  Other feedback and general discussion can be made to the yasm-devel mailing list.
 
 Code Contributions
-------------------
+==================
 
 These are *always* appreciated!  If you have a great idea to add to yasm (which is wonderful) and have already written the code to do it (even better!) just let us know via the yasm-devel mailing list.  If you just have a great idea, but no code, submit it as a ticket.. but it might take us a little bit to implement it!
 
 Project Ideas
--------------
+=============
 
 If you want to work on something but don't know what, here are some suggestions.  These projects range from little to huge (hopefully the task descriptions will give you an idea of what's involved).
 

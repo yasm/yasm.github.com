@@ -1,12 +1,11 @@
 ---
 title: Download
+longtitle: Yasm Downloads and Releases
 layout: default
 ---
 
-Yasm Download
-=============
-
-## Latest Release: 1.1.0
+Latest Release: 1.1.0
+=====================
 
 Release Date: August 7, 2010
  * [Yasm 1.1.0 Release Notes](/releases/Release1.1.0.html)
@@ -18,24 +17,24 @@ Release Date: August 7, 2010
  * [DOS .exe]({{site.releases}}/yasm-1.1.0-dos.exe) (for use on pure DOS or for use with [DJGPP](http://www.delorie.com/djgpp))
 
 Visual Studio 2010 Integration
-------------------------------
+==============================
 
 Download the appropriate VS2010 "vsyasm" zip file above for your system, and follow the readme.txt instructions for integrating yasm into Visual Studio 2010.  Thanks to Brian Gladman for contributing this!
 
 Visual Studio 2005/2008 Integration
------------------------------------
+===================================
 
 See [VisualStudio2005]({{site.wiki}}/VisualStudio2005) for detailed instructions on integrating Yasm with Visual Studio 2005 (Visual Studio 2008 is similar).
 
 See [Structured Exception Handling]({{site.manual}}/objfmt-win64-exception.html) (part of the [Yasm User's Manual]({{site.manual}}/)) for detailed information on using structured exception handling in the Windows x64 environment.  Yasm also supports the SAFESEH directive for structured exception handling in the Win32 environment.
 
 Nightly Development Snapshots
------------------------------
+=============================
 
 A complete build of Yasm is performed daily at 1:20 AM PDT if there are any repository changes since the previous day.  The [latest snapshot](http://www.tortall.net/projects/yasm/snapshots/latest/) is the most recent available.  It is updated at the same time as the daily build.  A Windows executable is also built nightly as "yasm-{version}.exe" in the latest snapshot directory.  [Older snapshots](http://www.tortall.net/projects/yasm/snapshots/) are also available.
 
 Git Repository
---------------
+==============
 
 All Yasm development is taking place using a [Git](http://git-scm.com/) repository. The repository is [browseable online](http://github.com/yasm/yasm/).
 
