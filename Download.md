@@ -4,17 +4,18 @@ longtitle: Yasm Downloads and Releases
 layout: default
 ---
 
-Latest Release: 1.1.0
+Latest Release: 1.2.0
 =====================
 
-Release Date: August 7, 2010
- * [Yasm 1.1.0 Release Notes](/releases/Release1.1.0.html)
- * [Source .tar.gz]({{site.releases}}/yasm-1.1.0.tar.gz)
- * [Win32 VS2010 .zip]({{site.releases}}/vsyasm-1.1.0-win32.zip) (for use with VS2010 on 32-bit Windows)
- * [Win64 VS2010 .zip]({{site.releases}}/vsyasm-1.1.0-win64.zip) (for use with VS2010 on 64-bit Windows)
- * [Win32 .exe]({{site.releases}}/yasm-1.1.0-win32.exe) (for general use on 32-bit Windows)
- * [Win64 .exe]({{site.releases}}/yasm-1.1.0-win64.exe) (for general use on 64-bit Windows)
- * [DOS .exe]({{site.releases}}/yasm-1.1.0-dos.exe) (for use on pure DOS or for use with [DJGPP](http://www.delorie.com/djgpp))
+Release Date: October 31, 2011
+ * [Yasm 1.2.0 Release Notes](/releases/Release1.2.0.html)
+ * [Source .tar.gz]({{site.releases}}/yasm-1.2.0.tar.gz)
+ * [Win32 VS2010 .zip]({{site.releases}}/vsyasm-1.2.0-win32.zip) (for use with VS2010 on 32-bit Windows)
+ * [Win64 VS2010 .zip]({{site.releases}}/vsyasm-1.2.0-win64.zip) (for use with VS2010 on 64-bit Windows)
+ * [Win32 .exe]({{site.releases}}/yasm-1.2.0-win32.exe) (for general use on 32-bit Windows)
+ * [Win64 .exe]({{site.releases}}/yasm-1.2.0-win64.exe) (for general use on 64-bit Windows)
+ * [CygWin32 .exe]({{site.releases}}/yasm-1.2.0-cygwin.exe) (for [CygWin](http://www.cygwin.com/) use)
+ * [DOS .exe]({{site.releases}}/yasm-1.2.0-dos.exe) (for use on pure DOS or for use with [DJGPP](http://www.delorie.com/djgpp))
 
 Visual Studio 2010 Integration
 ==============================
@@ -48,6 +49,17 @@ Developers can access the tree via SSH using the following command. A developer 
 
 Older Releases
 ==============
+
+## 1.1.0
+
+Release Date: August 7, 2010
+ * [Yasm 1.1.0 Release Notes](/releases/Release1.1.0.html)
+ * [Source .tar.gz]({{site.releases}}/yasm-1.1.0.tar.gz)
+ * [Win32 VS2010 .zip]({{site.releases}}/vsyasm-1.1.0-win32.zip) (for use with VS2010 on 32-bit Windows)
+ * [Win64 VS2010 .zip]({{site.releases}}/vsyasm-1.1.0-win64.zip) (for use with VS2010 on 64-bit Windows)
+ * [Win32 .exe]({{site.releases}}/yasm-1.1.0-win32.exe) (for general use on 32-bit Windows)
+ * [Win64 .exe]({{site.releases}}/yasm-1.1.0-win64.exe) (for general use on 64-bit Windows)
+ * [DOS .exe]({{site.releases}}/yasm-1.1.0-dos.exe) (for use on pure DOS or for use with [DJGPP](http://www.delorie.com/djgpp))
 
 ## 1.0.1
 
