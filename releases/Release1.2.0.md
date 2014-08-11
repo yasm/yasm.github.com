@@ -18,7 +18,7 @@ Welcome to the 1.2.0 release of the Yasm Modular Assembler.  Its target audience
  * keep track of Yasm's progress in terms of stability and feature set;
  * contribute to Yasm development from a new release.
 
-Download Yasm 1.1.0
+Download Yasm 1.2.0
 ===================
 
 A number of download formats are available. For Windows and DOS users, we recommend downloading the prebuilt binaries. The source tarball contains all sources needed to build Yasm on UNIX-compatible systems, Windows, and DOS.  If you use Visual Studio 2010, we highly recommend downloading the appropriate vsyasm zip file and following its readme.txt directions for integration of yasm into the Visual Studio IDE.
