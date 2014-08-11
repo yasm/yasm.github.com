@@ -4,23 +4,22 @@ longtitle: Yasm Downloads and Releases
 layout: default
 ---
 
-Latest Release: 1.2.0
+Latest Release: 1.3.0
 =====================
 
-Release Date: October 31, 2011
- * [Yasm 1.2.0 Release Notes](/releases/Release1.2.0.html)
- * [Source .tar.gz]({{site.releases}}/yasm-1.2.0.tar.gz)
- * [Win32 VS2010 .zip]({{site.releases}}/vsyasm-1.2.0-win32.zip) (for use with VS2010 on 32-bit Windows)
- * [Win64 VS2010 .zip]({{site.releases}}/vsyasm-1.2.0-win64.zip) (for use with VS2010 on 64-bit Windows)
- * [Win32 .exe]({{site.releases}}/yasm-1.2.0-win32.exe) (for general use on 32-bit Windows)
- * [Win64 .exe]({{site.releases}}/yasm-1.2.0-win64.exe) (for general use on 64-bit Windows)
- * [CygWin32 .exe]({{site.releases}}/yasm-1.2.0-cygwin.exe) (for [CygWin](http://www.cygwin.com/) use)
- * [DOS .exe]({{site.releases}}/yasm-1.2.0-dos.exe) (for use on pure DOS or for use with [DJGPP](http://www.delorie.com/djgpp))
+Release Date: August 10, 2014
+ * [Yasm 1.3.0 Release Notes](/releases/Release1.3.0.html)
+ * [Source .tar.gz]({{site.releases}}/yasm-1.3.0.tar.gz)
+ * [Win32 VS2010 .zip]({{site.releases}}/vsyasm-1.3.0-win32.zip) (for use with VS2010+ on 32-bit Windows)
+ * [Win64 VS2010 .zip]({{site.releases}}/vsyasm-1.3.0-win64.zip) (for use with VS2010+ on 64-bit Windows)
+ * [Win32 .exe]({{site.releases}}/yasm-1.3.0-win32.exe) (for general use on 32-bit Windows)
+ * [Win64 .exe]({{site.releases}}/yasm-1.3.0-win64.exe) (for general use on 64-bit Windows)
+ * [CygWin32 .exe]({{site.releases}}/yasm-1.3.0-cygwin.exe) (for [CygWin](http://www.cygwin.com/) use)
 
-Visual Studio 2010 Integration
-==============================
+Visual Studio 2010+ Integration
+===============================
 
-Download the appropriate VS2010 "vsyasm" zip file above for your system, and follow the readme.txt instructions for integrating yasm into Visual Studio 2010.  Thanks to Brian Gladman for contributing this!
+Download the appropriate VS2010 "vsyasm" zip file above for your system, and follow the readme.txt instructions for integrating yasm into Visual Studio 2010 (later versions are similar).  Thanks to Brian Gladman for contributing this!
 
 Visual Studio 2005/2008 Integration
 ===================================
@@ -49,6 +48,18 @@ Developers can access the tree via SSH using the following command. A developer 
 
 Older Releases
 ==============
+
+## 1.2.0
+
+Release Date: October 31, 2011
+ * [Yasm 1.2.0 Release Notes](/releases/Release1.2.0.html)
+ * [Source .tar.gz]({{site.releases}}/yasm-1.2.0.tar.gz)
+ * [Win32 VS2010 .zip]({{site.releases}}/vsyasm-1.2.0-win32.zip) (for use with VS2010 on 32-bit Windows)
+ * [Win64 VS2010 .zip]({{site.releases}}/vsyasm-1.2.0-win64.zip) (for use with VS2010 on 64-bit Windows)
+ * [Win32 .exe]({{site.releases}}/yasm-1.2.0-win32.exe) (for general use on 32-bit Windows)
+ * [Win64 .exe]({{site.releases}}/yasm-1.2.0-win64.exe) (for general use on 64-bit Windows)
+ * [CygWin32 .exe]({{site.releases}}/yasm-1.2.0-cygwin.exe) (for [CygWin](http://www.cygwin.com/) use)
+ * [DOS .exe]({{site.releases}}/yasm-1.2.0-dos.exe) (for use on pure DOS or for use with [DJGPP](http://www.delorie.com/djgpp))
 
 ## 1.1.0
 
