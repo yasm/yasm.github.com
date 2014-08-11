@@ -8,6 +8,7 @@ Latest Release: 1.3.0
 =====================
 
 Release Date: August 10, 2014
+
  * [Yasm 1.3.0 Release Notes](/releases/Release1.3.0.html)
  * [Source .tar.gz]({{site.releases}}/yasm-1.3.0.tar.gz)
  * [Win32 VS2010 .zip]({{site.releases}}/vsyasm-1.3.0-win32.zip) (for use with VS2010+ on 32-bit Windows)
@@ -52,6 +53,7 @@ Older Releases
 ## 1.2.0
 
 Release Date: October 31, 2011
+
  * [Yasm 1.2.0 Release Notes](/releases/Release1.2.0.html)
  * [Source .tar.gz]({{site.releases}}/yasm-1.2.0.tar.gz)
  * [Win32 VS2010 .zip]({{site.releases}}/vsyasm-1.2.0-win32.zip) (for use with VS2010 on 32-bit Windows)
@@ -64,6 +66,7 @@ Release Date: October 31, 2011
 ## 1.1.0
 
 Release Date: August 7, 2010
+
  * [Yasm 1.1.0 Release Notes](/releases/Release1.1.0.html)
  * [Source .tar.gz]({{site.releases}}/yasm-1.1.0.tar.gz)
  * [Win32 VS2010 .zip]({{site.releases}}/vsyasm-1.1.0-win32.zip) (for use with VS2010 on 32-bit Windows)
@@ -75,6 +78,7 @@ Release Date: August 7, 2010
 ## 1.0.1
 
 Release Date: May 17, 2010
+
  * [Yasm 1.0.1 Release Notes](/releases/Release1.0.1.html)
  * [Source .tar.gz]({{site.releases}}/yasm-1.0.1.tar.gz)
  * [Win32 VS2010 .zip]({{site.releases}}/vsyasm-1.0.1-win32.zip) (for use with VS2010 on 32-bit Windows)
@@ -86,6 +90,7 @@ Release Date: May 17, 2010
 ## 1.0.0
 
 Release Date: Apr 8, 2010
+
  * [Yasm 1.0.0 Release Notes](/releases/Release1.0.0.html)
  * [Source .tar.gz]({{site.releases}}/yasm-1.0.0.tar.gz)
  * [Win32 VS2010 .zip]({{site.releases}}/vsyasm-1.0.0-win32.zip) (for use with VS2010 on 32-bit Windows)
@@ -97,6 +102,7 @@ Release Date: Apr 8, 2010
 ## 0.8.0
 
 Release Date: Apr 10, 2009
+
  * [Yasm 0.8.0 Release Notes](/releases/Release0.8.0.html)
  * [Source .tar.gz]({{site.releases}}/yasm-0.8.0.tar.gz)
  * [Win32 .exe]({{site.releases}}/yasm-0.8.0-win32.exe) (for "normal" (Visual Studio or similar) use on 32-bit Windows)
@@ -107,6 +113,7 @@ Release Date: Apr 10, 2009
 ## 0.7.2
 
 Release Date: Oct 8, 2008
+
  * [Yasm 0.7.2 Release Notes](/releases/Release0.7.2.html)
  * [Source .tar.gz]({{site.releases}}/yasm-0.7.2.tar.gz)
  * [Win32 .exe]({{site.releases}}/yasm-0.7.2-win32.exe) (for "normal" (Visual Studio or similar) use on 32-bit Windows)
@@ -117,6 +124,7 @@ Release Date: Oct 8, 2008
 ## 0.7.1
 
 Release Date: May 14, 2008
+
  * [Yasm 0.7.1 Release Notes](/releases/Release0.7.1.html)
  * [Source .tar.gz]({{site.releases}}/yasm-0.7.1.tar.gz)
  * [Win32 .exe]({{site.releases}}/yasm-0.7.1-win32.exe) (for "normal" (Visual Studio or similar) use on 32-bit Windows)
@@ -128,6 +136,7 @@ Release Date: May 14, 2008
 ## 0.7.0
 
 Release Date: April 16, 2008
+
  * [Yasm 0.7.0 Release Notes](/releases/Release0.7.0.html)
  * [Source .tar.gz]({{site.releases}}/yasm-0.7.0.tar.gz)
  * [Win32 .exe]({{site.releases}}/yasm-0.7.0-win32.exe) (for "normal" (Visual Studio or similar) use on 32-bit Windows)
@@ -138,6 +147,7 @@ Release Date: April 16, 2008
 ## 0.6.2
 
 Release Date: September 21, 2007
+
  * [Yasm 0.6.2 Release Notes](/releases/Release0.6.2.html)
  * [Source .tar.gz]({{site.releases}}/yasm-0.6.2.tar.gz)
  * [Win32 .exe]({{site.releases}}/yasm-0.6.2-win32.exe) (for "normal" (Visual Studio or similar) use on 32-bit Windows)
@@ -148,6 +158,7 @@ Release Date: September 21, 2007
 ## 0.6.1
 
 Release Date: June 5, 2007
+
  * [Yasm 0.6.1 Release Notes](/releases/Release0.6.1.html)
  * [Source .tar.gz]({{site.releases}}/yasm-0.6.1.tar.gz)
  * [Win32 .exe]({{site.releases}}/yasm-0.6.1-win32.exe) (for "normal" (Visual Studio or similar) use on 32-bit Windows)
@@ -158,6 +169,7 @@ Release Date: June 5, 2007
 ## 0.6.0
 
 Release Date: February 24, 2007
+
  * [Yasm 0.6.0 Release Notes](/releases/Release0.6.0.html)
  * [Source .tar.gz]({{site.releases}}/yasm-0.6.0.tar.gz)
  * [Win32 .exe]({{site.releases}}/yasm-0.6.0-win32.exe) (for "normal" (Visual Studio or similar) use on 32-bit Windows)
@@ -168,6 +180,7 @@ Release Date: February 24, 2007
 ## 0.5.0
 
 Release Date: July 12, 2006
+
  * [Yasm 0.5.0 Release Notes](/releases/Release0.5.0.html)
  * [Source .tar.gz]({{site.releases}}/yasm-0.5.0.tar.gz)
  * [Win32 .exe]({{site.releases}}/yasm-0.5.0-win32.exe) (for "normal" (Visual Studio or similar) use on 32-bit Windows)
@@ -178,6 +191,7 @@ Release Date: July 12, 2006
 ## 0.5.0rc2
 
 Release Date: April 6, 2006
+
  * [Yasm 0.5.0rc2 Release Notes](/releases/Release0.5.0rc2.html)
  * [Source .tar.gz]({{site.releases}}/yasm-0.5.0rc2.tar.gz)
  * [Win32 .exe]({{site.releases}}/yasm-0.5.0rc2-win32.exe) (for "normal" (Visual Studio or similar) use on 32-bit Windows)
@@ -188,6 +202,7 @@ Release Date: April 6, 2006
 ## 0.5.0rc1
 
 Release Date: February 11, 2006
+
  * [Yasm 0.5.0rc1 Release Notes](/releases/Release0.5.0rc1.html)
  * [Source .tar.gz]({{site.releases}}/yasm-0.5.0rc1.tar.gz)
  * [Win32 .exe]({{site.releases}}/yasm-0.5.0rc1-win.exe) (for "normal" (Visual Studio or similar) use on 32-bit Windows)
@@ -198,6 +213,7 @@ Release Date: February 11, 2006
 ## 0.4.0
 
 Release Date: October 31, 2004
+
  * [Yasm 0.4.0 Release Notes](/releases/Release0.4.0.html)
  * [Source .tar.gz]({{site.releases}}/yasm-0.4.0.tar.gz)
  * [Win32 .exe]({{site.releases}}/yasm-0.4.0-win.exe) (for "normal" (Visual Studio or similar) use)
@@ -207,6 +223,7 @@ Release Date: October 31, 2004
 ## 0.3.0
 
 Release Date: September 4, 2003
+
  * [0.3.0 Release Notes]({{site.releases}}/yasm-0.3.0.html)
  * [yasm-0.3.0.tar.gz]({{site.releases}}/yasm-0.3.0.tar.gz)
  * [DOS (DJGPP) .exe]({{site.releases}}/yasm-0.3.0-dos.exe)
@@ -216,6 +233,7 @@ Release Date: September 4, 2003
 ## 0.2.2
 
 Release Date: June 6, 2003
+
  * [0.2.2 Release Notes]({{site.releases}}/yasm-0.2.2.html)
  * [yasm-0.2.2.tar.gz]({{site.releases}}/yasm-0.2.2.tar.gz)
  * [DOS (DJGPP) .exe]({{site.releases}}/yasm-0.2.2-dos.exe)
@@ -225,6 +243,7 @@ Release Date: June 6, 2003
 ## 0.2.1
 
 Release Date: April 1, 2003
+
  * [0.2.1 Release Notes]({{site.releases}}/yasm-0.2.1.html)
  * [yasm-0.2.1.tar.gz]({{site.releases}}/yasm-0.2.1.tar.gz)
  * [DOS (DJGPP) .exe]({{site.releases}}/yasm-0.2.1-dos.exe)
@@ -234,6 +253,7 @@ Release Date: April 1, 2003
 ## 0.2.0
 
 Release Date: March 26, 2003
+
  * [0.2.0 Release Notes]({{site.releases}}/yasm-0.2.0.html)
  * [yasm-0.2.0.tar.gz]({{site.releases}}/yasm-0.2.0.tar.gz)
  * [DOS (DJGPP) .exe]({{site.releases}}/yasm-0.2.0-dos.exe)
@@ -243,6 +263,7 @@ Release Date: March 26, 2003
 ## 0.1.0
 
 Release Date: March 19, 2002
+
  * [0.1.0 Release Notes]({{site.releases}}/yasm-0.1.0.html)
  * [yasm-0.1.0.tar.gz]({{site.releases}}/yasm-0.1.0.tar.gz)
  * [DOS (DJGPP) .exe]({{site.releases}}/yasm-0.1.0-dos.exe)
