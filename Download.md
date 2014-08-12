@@ -16,6 +16,7 @@ Release Date: August 10, 2014
  * [Win32 .exe]({{site.releases}}/yasm-1.3.0-win32.exe) (for general use on 32-bit Windows)
  * [Win64 .exe]({{site.releases}}/yasm-1.3.0-win64.exe) (for general use on 64-bit Windows)
  * [CygWin32 .exe]({{site.releases}}/yasm-1.3.0-cygwin.exe) (for [CygWin](http://www.cygwin.com/) use)
+ * [DOS .exe]({{site.releases}}/yasm-1.3.0-dos.exe) (for use on pure DOS or for use with [DJGPP](http://www.delorie.com/djgpp))
 
 Visual Studio 2010+ Integration
 ===============================

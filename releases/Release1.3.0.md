@@ -29,10 +29,11 @@ A number of download formats are available. For Windows and DOS users, we recomm
  * [Win32 .exe]({{site.releases}}/yasm-1.3.0-win32.exe) (for general use on 32-bit Windows)
  * [Win64 .exe]({{site.releases}}/yasm-1.3.0-win64.exe) (for general use on 64-bit Windows)
  * [CygWin32 .exe]({{site.releases}}/yasm-1.3.0-cygwin.exe) (for [CygWin](http://www.cygwin.com/) use)
+ * [DOS .exe]({{site.releases}}/yasm-1.3.0-dos.exe) (for use on pure DOS or for use with [DJGPP](http://www.delorie.com/djgpp))
 
 A TASM-like frontend is also available.  It defaults to the "tasm" parser and provides TASM-like command line options.
 
- * [Win32]({{site.releases}}/ytasm-1.3.0-win32.exe) | [Win64]({{site.releases}}/ytasm-1.3.0-win64.exe)
+ * [Win32]({{site.releases}}/ytasm-1.3.0-win32.exe) | [Win64]({{site.releases}}/ytasm-1.3.0-win64.exe) | [DOS]({{site.releases}}/ytasm-1.3.0-dos.exe)
 
 Features
 ========
